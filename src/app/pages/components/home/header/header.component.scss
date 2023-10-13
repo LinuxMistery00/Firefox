@@ -1,0 +1,30 @@
+.Content {
+    display: flex;
+    justify-content: center;
+    margin-top: 30vh;
+}
+
+.Content img {
+    width: 10vh;
+}
+
+.Content h1 {
+    color: #f1f2f3;
+    font-size: 5vh;
+    margin-top: 2vh;
+}
+
+.Label {
+    display: flex;
+    justify-content: center;
+    margin-top: 2vh;
+}
+
+.Label input {
+    border: 0;
+    background-color: #42414d;
+    color: #88888f;
+    width: 80vh;
+    height: 5vh;
+    border-radius: 1.5vh;
+}

@@ -1,0 +1,14 @@
+.Pages {
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+    gap: 5vh;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 7vh;
+    margin-top: 1vh;
+    margin-left: 1vh;
+    border-radius: 1.5vh;
+}
